@@ -14,7 +14,7 @@
 * <a href="https://replit.com/@eivygovsky/vsr-1#main.py">ВСР</a>
 ### Тестирование
 * <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>
-* ВСР
+* <a href="https://github.com/eugenexii/prog/blob/master/sem3/4/vsr.pdf">ВСР</a> 
 ## 4 семестр
 ### Обработка исключений
 * <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>
