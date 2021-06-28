@@ -14,7 +14,7 @@
 * <a href="https://replit.com/@eivygovsky/vsr-1#main.py">ВСР</a>
 ### Тестирование
 * <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>
-* ВСР
+* <a href="https://github.com/eugenexii/prog/blob/master/sem3/4/vsr.pdf">ВСР</a> 
 ## 4 семестр
 ### Обработка исключений
 * <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>
@@ -27,17 +27,12 @@
 * <a href="https://replit.com/@eivygovsky/isr-6#main.py">ИСР</a>
 * <a href="https://replit.com/@eivygovsky/vsr-4#main.py">ВСР</a>
 ## 5 семестр
-Модули. Пакеты
+### Модули. Пакеты
 * <a href="https://replit.com/@eivygovsky/isr-7#main.py">ИСР</a>
 * ВСР
 ### Итераторы
 * <a href="https://replit.com/@eivygovsky/isr-8#main.py">ИСР</a>
 * <a href="https://replit.com/@eivygovsky/vsr-5#main.py">ВСР</a>
-### Введение в ООА, шаблоны проектирования
-* ИСР
-* ВСР
-* <a href="https://replit.com/@eivygovsky/blog#main.py">Блог</a>
-* <a href="https://replit.com/@eivygovsky/graph#main.py">Графики</a>
 ### Построение графиков на Python
 * <a href="https://replit.com/@eivygovsky/isr-9#main.py">ИСР</a>
 ## 6 семестр
