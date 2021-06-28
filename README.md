@@ -48,5 +48,5 @@
 * <a href="https://replit.com/@eivygovsky/isr-11#main.py">ИСР</a>
 * <a href="https://replit.com/@eivygovsky/vsr-7#main.py">ВСР</a>
 ### Разработка графических интерфейсов (GUI)
-* ИСР
-* ВСР
+* <a href="https://github.com/eugenexii/prog/tree/master/sem6/isr">ИСР</a> 
+* <a href="https://github.com/eugenexii/prog/blob/master/sem6/VSR3.py">ВСР</a>
