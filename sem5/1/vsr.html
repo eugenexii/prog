@@ -1,0 +1,86 @@
+<html><head><style>body {
+   color: black;
+}
+</style></head><body><h2 id="-matplotlib-markdown">Исследование модуля Matplotlib, создание документа с помощью Markdown</h2>
+<p>Matplotlib — библиотека на языке программирования Python для визуализации данных двумерной (2D) графикой (3D графика также поддерживается).</p>
+<p>Версия 2.1.1 — последняя стабильная — требует Python версии 2.7 или от 3.4 и выше и версию NumPy от 1.7.1 и выше</p>
+<p>Пакет поддерживает многие виды графиков и диаграмм:</p>
+<ul>
+<li><p>Графики (line plot)</p>
+</li>
+<li><p>Диаграммы разброса (scatter plot)</p>
+</li>
+<li><p>Столбчатые диаграммы (bar chart) и гистограммы (histogram)</p>
+</li>
+<li><p>Круговые диаграммы (pie chart)</p>
+</li>
+<li><p>Ствол-лист диаграммы (stem plot)</p>
+</li>
+<li><p>Контурные графики (contour plot)</p>
+</li>
+<li><p>Поля градиентов (quiver)</p>
+</li>
+<li><p>Спектральные диаграммы (spectrogram)</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Методы</th>
+<th>Описание</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>plt.scatter()</td>
+<td>маркер или точечное рисование</td>
+</tr>
+<tr>
+<td>plt.plot()</td>
+<td>ломаная линия</td>
+</tr>
+<tr>
+<td>plt.text()</td>
+<td>нанесение текста</td>
+</tr>
+<tr>
+<td>plt.bar(), plt.barh(), plt.barbs(), broken_barh()</td>
+<td>столбчатая диаграмма</td>
+</tr>
+<tr>
+<td>plt.hist(), plt.hist2d(), plt.hlines</td>
+<td>гистограмма</td>
+</tr>
+<tr>
+<td>plt.pie()</td>
+<td>круговая диаграмма</td>
+</tr>
+<tr>
+<td>plt.boxplot()</td>
+<td>&quot;ящик с усами&quot; (boxwhisker)</td>
+</tr>
+<tr>
+<td>plt.errorbar()</td>
+<td>оценка погрешности, &quot;усы&quot;</td>
+</tr>
+</tbody>
+</table>
+<p>plt.contour() - изолинии;
+plt.contourf() | изолинии с послойной окраской
+plt.pcolor(), plt.pcolormesh() | псевдоцветное изображение матрицы (2D массива)
+plt.imshow() | вставка графики (пиксели + сглаживание)
+plt.matshow() | отображение данных в виде квадратов
+plt.fill() | заливка многоугольника
+plt.fill_between(), plt.fill_betweenx() | заливка между двумя линиями
+plt.streamplot() | линии тока
+plt.quiver() | векторное поле</p>
+<h3 id="-">Пример</h3>
+<p>Следующий пример иллюстрирует построение графика:</p>
+<pre><code class="lang-python">from pylab import *
+plot(<span class="hljs-keyword">range</span>(<span class="hljs-number">1</span>, <span class="hljs-number">20</span>),
+     [i * i <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-keyword">range</span>(<span class="hljs-number">1</span>, <span class="hljs-number">20</span>)], <span class="hljs-symbol">'ro</span>')
+savefig(<span class="hljs-symbol">'example.png</span>')
+show()
+</code></pre>
+<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/7/7c/Matplotlib_example_plot.png/400px-Matplotlib_example_plot.png" alt="Картинка"></p>
+</body></html>
