@@ -27,7 +27,7 @@
 * <a href="https://replit.com/@eivygovsky/isr-6#main.py">ИСР</a>
 * <a href="https://replit.com/@eivygovsky/vsr-4#main.py">ВСР</a>
 ## 5 семестр
-Модули. Пакеты
+### Модули. Пакеты
 * <a href="https://replit.com/@eivygovsky/isr-7#main.py">ИСР</a>
 * ВСР
 ### Итераторы
