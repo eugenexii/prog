@@ -3,49 +3,50 @@
 
 ## 3 семестр
 ### Введение в Python и основы синтаксиса
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr#main.py">ИСР</a>
+* <a href="https://github.com/eugenexii/prog/blob/master/sem3/1/vsr.pdf">ВСР</a> 
 ### Функции в Python
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-1#main.py">ИСР</a>">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/isr-2#main.py">ИСР(1)</a>">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/vsr#main.py">ВСР</a>">ВСР</a>
 ### Строки
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-3#main.py">ИСР</a>">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/vsr-1#main.py">ВСР</a>">ВСР</a>
 ### Тестирование
-* ИСР
+* <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>">ИСР</a>
 * ВСР
 ## 4 семестр
 ### Обработка исключений
-* ИСР
+* <a href="https://replit.com/@eivygovsky/isr-4#main.py">ИСР</a>">
 ### Декораторы
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-5#main.py">ИСР</a>">
+* <a href="https://replit.com/@eivygovsky/vsr-2#main.py">ВСР</a>">
 ### Введение в ООП
-* ВСР
+* <a href="https://replit.com/@eivygovsky/vsr-3#main.py">ВСР</a>">
 ### Встроенные коллекции
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-6#main.py">ИСР</a>">
+* <a href="https://replit.com/@eivygovsky/vsr-4#main.py">ВСР</a>"
 ## 5 семестр
 Модули. Пакеты
-* ИСР
+* <a href="https://replit.com/@eivygovsky/isr-7#main.py">ИСР</a>
 * ВСР
 ### Итераторы
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-8#main.py">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/vsr-5#main.py">ВСР</a>
 ### Введение в ООА, шаблоны проектирования
 * ИСР
 * ВСР
-* Блог
-* Графики
+* <a href="https://replit.com/@eivygovsky/blog#main.py">Блог</a>
+* <a href="https://replit.com/@eivygovsky/graph#main.py">Графики</a>
 ### Построение графиков на Python
-* ИСР
+* <a href="https://replit.com/@eivygovsky/isr-9#main.py">ИСР</a>
 ## 6 семестр
 Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-10#main.py">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/vsr-6#main.py">ВСР</a>
 ### Генераторы в Python. Корутины, сопрограммы
-* ИСР
-* ВСР
+* <a href="https://replit.com/@eivygovsky/isr-11#main.py">ИСР</a>
+* <a href="https://replit.com/@eivygovsky/vsr-7#main.py">ВСР</a>
 ### Разработка графических интерфейсов (GUI)
 * ИСР
 * ВСР
