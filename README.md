@@ -30,7 +30,7 @@
 ### Модули. Пакеты
 * <a href="https://github.com/eugenexii/prog/blob/master/sem5/1/isr.md">ИСР(1)</a>
 * <a href="https://replit.com/@eivygovsky/isr-7#main.py">ИСР(1)</a>
-* ВСР
+* <a href="https://github.com/eugenexii/prog/tree/master/sem5/1/vsr">ВСР</a>
 ### Итераторы
 * <a href="https://replit.com/@eivygovsky/isr-8#main.py">ИСР</a>
 * <a href="https://replit.com/@eivygovsky/vsr-5#main.py">ВСР</a>
