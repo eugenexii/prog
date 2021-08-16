@@ -38,6 +38,7 @@
 * <a href="https://replit.com/@eivygovsky/isr-9#main.py">ИСР</a>
 ### ЛР
 * <a href="https://replit.com/@eivygovsky/lr2#main.py">Доступ к погоде по API</a>
+* <a href="https://github.com/eugenexii/prog/tree/master/sem5/lr4">Разработка чата</a>
 ## 6 семестр
 Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
 * <a href="https://replit.com/@eivygovsky/isr-10#main.py">ИСР</a>
