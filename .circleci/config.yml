@@ -1,0 +1,21 @@
+version: 2.1
+orbs:
+  python: circleci/python@1.2
+
+jobs:
+  build-and-test:
+    docker:
+      - image: cimg/python:3.9.5
+    steps:
+      - checkout
+      - python/install-packages:
+          pkg-manager: pip
+      - run:
+          name: Install Dependencies
+          command: pip3 install -r requirements.txt
+
+
+workflows:
+  sample:
+    jobs:
+      - build-and-test
