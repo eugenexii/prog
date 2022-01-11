@@ -49,3 +49,8 @@
 ### Разработка графических интерфейсов (GUI)
 * <a href="https://github.com/eugenexii/prog/tree/master/sem6/isr">ИСР</a> 
 * <a href="https://github.com/eugenexii/prog/blob/master/sem6/VSR3.py">ВСР</a>
+## 7 семестр
+* <a href="https://replit.com/@eivygovsky/lr1">Лабораторная работа 1. Численное интегрирование</a> 
+* <a href="https://hub.docker.com/repository/docker/evgenyxii/lr2">Лабораторная работа 2. Docker + SimpleHTTPServer</a> 
+* <a href="https://replit.com/@eivygovsky/lr3">Лабораторная работа 3. Численное интегрирование. Оптимизация</a> 
+* <a href="/sem7/lr4">Лабораторная работа 4. Организация CI/CD с помощью Circle CI</a>
